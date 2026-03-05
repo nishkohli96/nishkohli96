@@ -2,7 +2,7 @@
 # 👋 Hey, I'm Nish!
 
 - 👨🏻‍💻 Fullstack developer passionate about building scalable, reusable, and elegant solutions with modern web technologies  
-- 📦 Author of 2 npm packages with over **7,000+ downloads**  
+- 📦 Author of 2 npm packages with over **13,000+ downloads**  
 - 🗺️ Hardcore traveller — explored **10+ countries** and more than half of **India 🇮🇳**  
 - 🎭 Lover of movies, music, and stand-up comedy  
 - 🍕 Forever craving **Delishaas** food
