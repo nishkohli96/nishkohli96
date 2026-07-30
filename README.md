@@ -2,7 +2,7 @@
 # 👋 Hey, I'm Nish!
 
 - 👨🏻‍💻 Fullstack developer passionate about building scalable, reusable, and elegant solutions with modern web technologies  
-- 📦 Author of 2 npm packages with over **13,000+ downloads**  
+- 📦 Author of 3 npm packages with over **20,000+ downloads**  
 - 🗺️ Hardcore traveller — explored **10+ countries** and more than half of **India 🇮🇳**  
 - 🎭 Lover of movies, music, and stand-up comedy  
 - 🍕 Forever craving **Delishaas** food
@@ -13,8 +13,10 @@
 > I love building production-ready starter templates and reusable tools that simplify development workflows.
 
 ### 📦 npm Packages
+- [`@nish1896/mui-components`](https://www.npmjs.com/package/@nish1896/mui-components)  
+  A suite of 25+ form-library-agnostic Material UI form components - use it either with a form library or as a standalone component.
 - [`@nish1896/rhf-mui-components`](https://www.npmjs.com/package/@nish1896/rhf-mui-components)  
-  A suite of 20+ customizable Material UI components built with React Hook Form — create beautiful forms in minutes.
+  A suite of 25+ customizable Material UI components built with React Hook Form — create beautiful forms in minutes.
 
 - [`@nish1896/eslint-flat-config`](https://www.npmjs.com/package/@nish1896/eslint-flat-config) & [`eslint-config`](https://www.npmjs.com/package/@nish1896/eslint-config)  
   ESLint configs built for modern JavaScript/TypeScript projects with consistent and strict formatting rules.
